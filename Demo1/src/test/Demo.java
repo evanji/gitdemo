@@ -5,7 +5,7 @@ package test;
  */
 public class Demo {
     public static void main(String[] args) {
-        System.out.println("我是a");
+        System.out.println("我是c");
         System.out.println("ksajdhas");
         System.out.println("sss");
         System.out.println();
