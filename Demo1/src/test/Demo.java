@@ -10,7 +10,7 @@ public class Demo {
         System.out.println("aaaa");
         System.out.println("gzl");
 
-        System.out.println("thor");
+        System.out.println("啊啊临时拉看啥动");
 
         System.out.println();
         for(int i=0;i<10;i++)
