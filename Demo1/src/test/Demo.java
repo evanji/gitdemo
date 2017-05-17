@@ -9,6 +9,8 @@ public class Demo {
         System.out.println("ksajdhas");
         System.out.println("sss");
         System.out.println(1);
+        System.out.println("2");
+
         System.out.println();
     }
 }
