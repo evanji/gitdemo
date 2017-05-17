@@ -8,5 +8,6 @@ public class Demo {
         System.out.println("我是A");
         System.out.println("ksajdhas");
         System.out.println("sss");
+        System.out.println();
     }
 }
